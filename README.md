@@ -13,5 +13,5 @@
 
 > Windows enabled
 
-![](https://im3.ezgif.com/tmp/ezgif-3-806512697044.gif)
+![](https://i.hizliresim.com/5xwezni.gif)
 
