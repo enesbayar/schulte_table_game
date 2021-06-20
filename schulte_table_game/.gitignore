@@ -1,3 +1,4 @@
+*.* linguist-language=Dart
 # Miscellaneous
 *.class
 *.log
